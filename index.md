@@ -1,5 +1,6 @@
 | name | image |
 | - | - |
+| bufo-slaying-tho.png | ![bufo-slaying-tho.png](all-the-bufo/bufo-slaying-tho.png) |
 | according-to-all-known-laws-of-aviation-there-is-no-way-a-bufo-should-be-able-to-fly.png | ![according-to-all-known-laws-of-aviation-there-is-no-way-a-bufo-should-be-able-to-fly.png](all-the-bufo/according-to-all-known-laws-of-aviation-there-is-no-way-a-bufo-should-be-able-to-fly.png) |
 | add-bufo.png | ![add-bufo.png](all-the-bufo/add-bufo.png) |
 | all-the-bufo.png | ![all-the-bufo.png](all-the-bufo/all-the-bufo.png) |
